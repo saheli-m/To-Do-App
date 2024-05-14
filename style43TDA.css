@@ -1,0 +1,37 @@
+div {
+  background-color: rgb(53, 203, 191);
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  margin-top: 3rem;
+  padding: 1rem;
+  border: 1px solid transparent;
+  border-radius: 5%;
+}
+
+h1 {
+  margin-left: 3.5rem;
+}
+
+input {
+  border: transparent;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+button {
+  border: 1px solid black;
+  padding: 5px;
+  margin-left: 10px;
+  background-color: aliceblue;
+}
+
+.add {
+  margin-top: 5px;
+}
+
+ul li {
+  width: 150px;
+  line-height: 2rem;
+}
+
